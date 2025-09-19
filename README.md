@@ -1,8 +1,10 @@
 # Elibz2Kicad
 
-Elibz2Kicad 是一个将立创商城的 .elibz 格式电子元件库文件转换为 kicad_mod 格式的工具。该工具可以帮助电子工程师和爱好者将立创商城的元件库导入到 KiCad 中使用。
+Elibz2Kicad 是一个将立创商城的封装导入到KICAD里
 
-仅限用于将封装导入到 KiCad 6.0 版本
+将.elibz 格式电子元件库文件转换为 kicad_mod 格式的工具。
+
+用于将封装导入到 KiCad 6.0 版本
 
 ## 功能特点
 
